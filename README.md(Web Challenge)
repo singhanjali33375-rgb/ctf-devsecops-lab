@@ -1,0 +1,18 @@
+# SQL Injection CTF Challenge
+
+## Objective
+Exploit a vulnerable login form to bypass authentication.
+
+## Hint
+User input is not sanitized.
+
+## Vulnerability
+SQL Injection
+
+## Flag
+CTF{sql_injection_success}
+
+## Learning Outcome
+- Web exploitation basics
+- SQL Injection understanding
+- Secure coding practices
