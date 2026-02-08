@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web-ctf:
+    build: ./challenges/web/sql-injection
+    ports:
+      - "5000:5000"
